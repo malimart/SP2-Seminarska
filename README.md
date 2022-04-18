@@ -1,6 +1,6 @@
 # Seminarska naloga, Spletno programiranje 2, FIŠ
 ## Avtor
-Črt Žbogar, 35200100
+Črt Žbogar
 ## Opis
 Naloga seminarske je izdelava PHP backenda dinamične spletne strani. Izdelal sem enostaven CMS sistem, ki omogoča objavljanje, urejanje in brisanje člankov. V priloženi podatkovni bazi (sp2.sql) se v tabeli 'article' shranjujejo podatki o naslovu, vsebini in datumu objave vsakega članka. Do podatkovne baze sem dostopal s pomočjo podatkov zapisanih v 'includes/database.php'.
 ## Datoteke
